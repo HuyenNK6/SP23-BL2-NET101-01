@@ -15,7 +15,7 @@ namespace BAI_3_NHAP_XUAT
          *      + Console.WriteLine(); Ghi xong thì xuống dòng
          *      + Console.Write(); Ghi xong thì không xuống dòng
          *  2. Nhập dữ liệu từ bàn phím:
-         *      + Console.Read(); Đọc 1 ký tự từ bàn phím nhưng là số ASII
+         *      + Console.Read(); Đọc 1 ký tự từ bàn phím nhưng là số ASCII
          *      + Console.ReadLine();  Đọc nhiều ký tự từ bàn phím và kiểu dữ liệu là string - chuỗi
          */
         static void Main(string[] args)
